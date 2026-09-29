@@ -39,10 +39,4 @@ This project builds an end-to-end intelligence hub that ingests raw transaction 
 | **Visualizations** | Plotly Express, Plotly Graph Objects |
 
 ---
-
-## 🚦 Quickstart Guide
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/Atech31/churn-intelligence-platform.git](https://github.com/Atech31/churn-intelligence-platform.git)
-cd churn-intelligence-platform
+ 
